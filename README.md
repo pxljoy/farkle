@@ -1,4 +1,4 @@
-# Farkle in NodeJS
+# [Farkle](https://en.wikipedia.org/wiki/Farkle) in NodeJS
 
 ## Usage
 `node .`
